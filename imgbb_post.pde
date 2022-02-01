@@ -1,5 +1,3 @@
-// https://www.baeldung.com/java-http-request
-
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URLEncoder;
